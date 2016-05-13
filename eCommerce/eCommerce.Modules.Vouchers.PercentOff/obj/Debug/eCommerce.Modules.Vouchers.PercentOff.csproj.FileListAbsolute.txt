@@ -1,0 +1,9 @@
+C:\Users\andre\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Modules.Vouchers.PercentOff\bin\Debug\eCommerce.Modules.Vouchers.PercentOff.dll
+C:\Users\andre\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Modules.Vouchers.PercentOff\bin\Debug\eCommerce.Modules.Vouchers.PercentOff.pdb
+C:\Users\andre\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Modules.Vouchers.PercentOff\bin\Debug\eCommerce.Contracts.dll
+C:\Users\andre\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Modules.Vouchers.PercentOff\bin\Debug\eCommerce.Model.dll
+C:\Users\andre\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Modules.Vouchers.PercentOff\bin\Debug\eCommerce.Contracts.pdb
+C:\Users\andre\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Modules.Vouchers.PercentOff\bin\Debug\eCommerce.Model.pdb
+C:\Users\andre\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Modules.Vouchers.PercentOff\obj\Debug\eCommerce.Modules.Vouchers.PercentOff.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Modules.Vouchers.PercentOff\obj\Debug\eCommerce.Modules.Vouchers.PercentOff.dll
+C:\Users\andre\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Modules.Vouchers.PercentOff\obj\Debug\eCommerce.Modules.Vouchers.PercentOff.pdb

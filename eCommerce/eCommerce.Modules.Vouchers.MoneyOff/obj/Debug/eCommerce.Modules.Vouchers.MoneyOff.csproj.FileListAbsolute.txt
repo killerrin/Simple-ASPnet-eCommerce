@@ -1,0 +1,9 @@
+C:\Users\andre\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Modules.Vouchers.MoneyOff.dll
+C:\Users\andre\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Modules.Vouchers.MoneyOff.pdb
+C:\Users\andre\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Contracts.dll
+C:\Users\andre\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Model.dll
+C:\Users\andre\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Contracts.pdb
+C:\Users\andre\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\bin\Debug\eCommerce.Model.pdb
+C:\Users\andre\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\obj\Debug\eCommerce.Modules.Vouchers.MoneyOff.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\obj\Debug\eCommerce.Modules.Vouchers.MoneyOff.dll
+C:\Users\andre\Documents\Visual Studio 2015\Projects\eCommerce\eCommerce.Modules.Vouchers.MoneyOff\obj\Debug\eCommerce.Modules.Vouchers.MoneyOff.pdb
